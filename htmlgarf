@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Ur Mom - About our night
+        </title>
+        
+        <style>
+            hr {
+             border: dotted;
+             border-color: #596343;
+             height: 25px;
+             background-color: #b5b95e;
+            }
+        </style>
+    </head>
+    
+    <body style = "background-color: orange; color: yellow; font-family: Comic Sans MS; padding: 0 10%;">
+        <div style = "text-align: center;">
+            <img src = "https://www.slantmagazine.com/wp-content/uploads/2004/04/garfield.jpg" 
+                alt = "garf"
+                style = "height: 100px; border-radius: 50%;">
+        </div>
+        
+        <hr>
+        
+        <div style = "text-align: center;" >
+        	<h1> lasagna cat </h1>
+        </div>
+        
+        <hr>
+        
+        <div style = "text-align: center;">
+        	<h3> about me </h3>
+            <p>Garfield Kart is the physical equivalent to Halo. With an amazing storyline. And amazing characters. Most people don't understand why Garfield is racing Jon in a go kart match. But people whom have an high iq can understand the lore. Jon was fed up with Garfield being a fat cat, and had enough. He put him into a go kart and said "Race me or you'll never see your lasagna again." So Garfield raced him. And they raced, and raced, and raced, and raced. Until they've given up. Jon knew he was defeated. But he never gave up. He called down Odie to join the race. It was a fierceful 2 v 1, with aliens flying around everywhere and pies being thrown But it seemed like nothing could take down Garfield. Then it happened. The final race. Every character was against Garfield. They were fed up with his winning streak. They all decided to join together and build one mega kart. One so powerful that not even Papa Luigi could take down. Garfield was still confident that he could win. Then the day approached. The race began. The sky was dark. It started to rain. It all came down to this one race. Garfield was ahead, as always. But he noticed his car was starting to fall apart. His engine started to smoke, and his wheels were slowly coming off. There was a mark on his kart saying "Nermal 💖" Garfield was furious, and he continued to race, even when death seemed likely. His car, only having two wheels left and a burning engine, coming close to the finish line. Where Vito was waiting for him, with a hot, steamy lasagna. The car blew the third wheel. Only one wheel left, but Garfield still was going. Until. Jon pulled out a c4 and said "THIS IS THE END FOR YOU, FAT CAT." He threw it at the car, and detonated it. An explosion could be heard miles away. There was nothing left of the kart but a could of smoke. </p>
+        </div>
+        
+        <hr>
+        
+        <div>
+        	<h3 style = "text-align: center;"> intersts </h3>
+            <ul style = "margin-left: 40%" >
+            	<li>naps</li>
+                <li>lasagna</li>
+                <li>not jon</li>
+           	</ul>
+        </div>
+        
+        <hr>
+        
+        <div style = "text-align: center;">
+        	<h3> let's catnect </h3>
+            <a href= "https://www.youtube.com/watch?v=o5t1Kn6q8Mk" target = "_blank" style = "font-weight: bold; text-decoration: none; color: #596343;"> garf</a>
+        </div>
+        
+        <p></p>
+    </body>
+</html>
